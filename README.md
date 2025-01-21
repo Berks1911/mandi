@@ -1,0 +1,2 @@
+# mandi
+self studies
